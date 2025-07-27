@@ -32,7 +32,6 @@ export default function RootLayout({
       <meta property="twitter:url" content="https://are-you-sure.onrender.com/" />
       <meta property="twitter:title" content="rayken" />
       <meta property="twitter:description" content="Created by rayken" />
-      <meta property="twitter:image" content="https://metatags.io/images/meta-tags.png" />
 
       <style>{`
         html {
